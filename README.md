@@ -6,5 +6,5 @@ For login:
 - password: teste12
 
 Run code:
-- yarn install
-- yarn start
+- npm install
+- npm start
